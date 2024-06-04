@@ -9,5 +9,6 @@ Para el análisis específico de este proyecto, se seleccionaron 100 muestras de
 ## Metodología 
 Para hacer el analisis de estas muestras se ocupo el servidor BetterLab del [CCM, Morelia](https://www.matmor.unam.mx/).
 Para tener acceso a las muestras, se crearon enlaces simbolicos a los archivos FASTA para así no tener que copiar directamente. Se observo que teniamos secuencias de lecturas de un solo extremo, de extremo emparejado y tambien las que tenian ambas, así que para reducir el espacio, se eliminaron las msecuencuas que tenian ambas. Las muestras limpias se encuentran en la carpeta "reads". 
-Para analisar la calidad de de las lecturas de secuencia contenidas en nuestros archivos usaremos la herramienta FASTQC. 
+Para analisar la calidad de de las lecturas de secuencia contenidas en nuestros archivos usaremos la herramienta FASTQC. Al aplicra FASTQC a nuestras secuencias, tenemos como resulatdo la calidad de cada una y tambien las que pasan o no pasan la prueba de calidad. 
 
+![image](https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/0acc33af-49d1-4839-8e39-a134e11829cf)
