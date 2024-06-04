@@ -12,3 +12,14 @@ Para tener acceso a las muestras, se crearon enlaces simbolicos a los archivos F
 Para analisar la calidad de de las lecturas de secuencia contenidas en nuestros archivos usaremos la herramienta FASTQC. Al aplicra FASTQC a nuestras secuencias, tenemos como resulatdo la calidad de cada una y tambien las que pasan o no pasan la prueba de calidad. 
 
 ![image](https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/0acc33af-49d1-4839-8e39-a134e11829cf)
+# Mi Proyecto
+
+## Introducción
+
+Este es un proyecto de ejemplo.
+
+## Imagen
+
+Aquí hay una imagen más pequeña:
+
+<img src="https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/0acc33af-49d1-4839-8e39-a134e11829cf" alt="Descripción de la imagen" width="300"/>
