@@ -22,4 +22,4 @@ Este es un proyecto de ejemplo.
 
 Aquí hay una imagen más pequeña:
 
-<img src="https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/0acc33af-49d1-4839-8e39-a134e11829cf" alt="Descripción de la imagen" width="300"/>
+<img src="https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/0acc33af-49d1-4839-8e39-a134e11829cf" alt="Descripción de la imagen" width="500"/>
