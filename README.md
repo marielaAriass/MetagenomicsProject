@@ -40,4 +40,7 @@ Se hizo asignación taxonómica a las secuencias de nuestras muestras. Usamos kr
   <p><em>Archivo report de la secuencia ERR209071.</em></p>
 </div>  
 
+### Exploración de taxonomía
+Kraken-biom es un programa que crea tablas BIOM a partir de la salida de Kraken. Usamos los archivos .report para crear archivo .biom
+
 
