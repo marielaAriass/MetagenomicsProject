@@ -30,8 +30,9 @@ Después de evaluar la calidad, vamos a limpiar nuestras muestras y así su cali
   <p><em>Grafica con buena calidad. Secuencia recortada ERR209071_1.</em></p>
 </div>  
 
-### Ensamblar
-### Binning
+### Ensamblar 
+Para ensamblar nuestras secuencias usamos metaSPAdes. El scrips "esamblar.sh" muestra el proceso. 
+
 ### Asignación taxonómica
 
 
