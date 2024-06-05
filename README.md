@@ -34,5 +34,10 @@ Después de evaluar la calidad, vamos a limpiar nuestras muestras y así su cali
 Para ensamblar nuestras secuencias usamos metaSPAdes. El scrips "esamblar.sh" muestra el proceso. 
 
 ### Asignación taxonómica
+Se hizo asignación taxonómica a las secuencias de nuestras muestras. Usamos kraken2 y para cada muestra se obtuvo un archivo .report
+<div align="center">
+  <img src="https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/968a1371-eefb-4f1e-bbfd-6fa3c3c8455c" alt="Archivo report de la secuencia ERR209071" width="600"/>
+  <p><em>Archivo report de la secuencia ERR209071.</em></p>
+</div>  
 
 
