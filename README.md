@@ -42,6 +42,10 @@ Se hizo asignación taxonómica a las secuencias de nuestras muestras. Usamos kr
 
 ### Exploración de taxonomía
 Kraken-biom es un programa que crea tablas BIOM a partir de la salida de Kraken. Usamos los archivos .report para crear archivo .biom, con este archivo podemos crear una tabla en R y así vizualizar las etiquetas taxonómicas. 
-
+Se hizo asignación taxonómica a las secuencias de nuestras muestras. Usamos kraken2 y para cada muestra se obtuvo un archivo .report
+<div align="center">
+  <img src="https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/6dddfcf6-f126-42b7-8585-fbf7a9e8c6eb)" alt="Tabla del archivo biom" width="600"/>
+  <p><em>Archivo report de la secuencia ERR209071.</em></p>
+</div>  
 
 
