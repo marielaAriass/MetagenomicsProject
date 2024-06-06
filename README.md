@@ -47,5 +47,8 @@ Se hizo asignación taxonómica a las secuencias de nuestras muestras. Usamos kr
   <img src="https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/6dddfcf6-f126-42b7-8585-fbf7a9e8c6eb)" alt="Tabla del archivo biom" width="600"/>
   <p><em>Tabla del archivo biom.</em></p>
 </div>  
+Al explorar nuestros datos en R, podemos notar que hay 67 filos. 
+
+![image](https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/7da94ab3-1b63-4ca2-b923-d2327c22179e)
 
 
