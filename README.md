@@ -45,7 +45,7 @@ Kraken-biom es un programa que crea tablas BIOM a partir de la salida de Kraken.
 Se hizo asignación taxonómica a las secuencias de nuestras muestras. Usamos kraken2 y para cada muestra se obtuvo un archivo .report
 <div align="center">
   <img src="https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/6dddfcf6-f126-42b7-8585-fbf7a9e8c6eb)" alt="Tabla del archivo biom" width="600"/>
-  <p><em>Archivo report de la secuencia ERR209071.</em></p>
+  <p><em>Tabla del archivo biom.</em></p>
 </div>  
 
 
