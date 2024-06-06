@@ -53,3 +53,6 @@ Al explorar nuestros datos en R, podemos notar que hay 67 filos.
 
 ![image](https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/1ed9c110-5190-41d1-8f9a-35ac3f02a61e)
 
+![image](https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/b849b9e2-a89d-45a4-a8b2-412de1c97818)
+
+
