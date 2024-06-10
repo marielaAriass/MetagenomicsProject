@@ -54,9 +54,13 @@ En la siguiente grafica se pueden observar los diferentes filos que hay y su abu
   <p><em>Abundancia de filos.</em></p>
 </div>
 
+Al calcular la beta diversidad de las muestras nos damos cuenta que se forman grupos, lo que quiere decir que las muestras son parecidas entre sí. 
+<div align="center">
+  <img src="https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/7da94ab3-1b63-4ca2-b923-d2327c22179e" alt="Abundancia de filos" width="600"/>
+  <p><em>Similitud entre las muestras</em></p>
+</div>
 ![image](https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/7da94ab3-1b63-4ca2-b923-d2327c22179e)
 
-![image](https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/1ed9c110-5190-41d1-8f9a-35ac3f02a61e)
 
 ![image](https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/b849b9e2-a89d-45a4-a8b2-412de1c97818)
 
