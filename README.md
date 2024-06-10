@@ -54,14 +54,20 @@ En la siguiente grafica se pueden observar los diferentes filos que hay y su abu
   <p><em>Abundancia de filos.</em></p>
 </div>
 
-Al calcular la beta diversidad de las muestras nos damos cuenta que se forman grupos, lo que quiere decir que las muestras son parecidas entre sí. 
+La beta biodiversidad se refiere a la variación en la composición de especies entre diferentes comunidades ecológicas. El gráfico NMDS que has mostrado es una herramienta para visualizar la biodiversidad beta, ya que muestra cómo las diferentes muestras se agrupan o se separan en función de su composición de especies.
+Podemos observar que se forman grupos, lo que quiere decir que las muestras son parecidas entre sí. 
 <div align="center">
   <img src="https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/7da94ab3-1b63-4ca2-b923-d2327c22179e" alt="Abundancia de filos" width="600"/>
   <p><em>Similitud entre las muestras</em></p>
 </div>
-![image](https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/7da94ab3-1b63-4ca2-b923-d2327c22179e)
 
-
-![image](https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/b849b9e2-a89d-45a4-a8b2-412de1c97818)
-
-
+La alfa diversidad se refiere a la diversidad dentro de una comunidad ecológica particular o muestra, y es una medida de la riqueza de especies y su abundancia relativa en una muestra dada.
+tTenemos la siguiente grafica: 
+<div align="center">
+  <img src="https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/b849b9e2-a89d-45a4-a8b2-412de1c97818" alt="Abundancia de filos" width="600"/>
+  <p><em></em></p>
+</div>
+*El gráfico Observed muestra el número total de especies observadas en cada muestra. Las muestras con un mayor número de especies observadas tienen una mayor riqueza de especies. Un número alto de especies observadas sugiere una mayor diversidad en esa muestra específica. La mayoría de las muestras tienen entre 4000 y 8000 especies observadas, con algunas variaciones entre ellas.
+*El gráfico Chao1 es un estimador de la riqueza de especies que trata de corregir el sesgo de no haber muestreado todas las especies presentes. Se basa en la abundancia de las especies raras.
+Los valores de Chao1 generalmente son mayores o iguales a los valores observados, ya que estiman las especies no observadas. En nuestro gráfico, los valores de Chao1 son bastante similares a los valores observados, lo que sugiere que el muestreo ha sido bastante completo, aunque hay algunas muestras con estimaciones de riqueza significativamente más altas, indicando la posible presencia de especies raras no observadas.
+*El índice de Shannon es una medida de diversidad que considera tanto la riqueza de especies como la equitatividad (cómo se distribuyen las especies en términos de abundancia). Un valor más alto del índice de Shannon indica una mayor diversidad, considerando tanto el número de especies como la uniformidad de sus abundancias. En el gráfico, los valores del índice de Shannon varían entre aproximadamente 1.5 y 4.5. Las muestras con valores más altos tienen una mayor diversidad, tanto en términos de número de especies como en la equitatividad de sus abundancias.
