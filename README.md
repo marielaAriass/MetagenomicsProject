@@ -48,6 +48,11 @@ Kraken-biom es un programa que crea tablas BIOM a partir de la salida de Kraken.
   <p><em>Tabla del archivo biom.</em></p>
 </div>  
 Al explorar nuestros datos en R, podemos notar que hay 41 filos. 
+En la siguiente grafica se pueden observar los diferentes filos que hay y su abundancia; el filo más abundante es Bacteroidota. 
+<div align="center">
+  <img src="https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/1ed9c110-5190-41d1-8f9a-35ac3f02a61e" alt="Abundancia de filos" width="600"/>
+  <p><em>Abundancia de filos.</em></p>
+</div>
 
 ![image](https://github.com/marielaAriass/MetagenomicsProject/assets/100146837/7da94ab3-1b63-4ca2-b923-d2327c22179e)
 
