@@ -71,3 +71,8 @@ tTenemos la siguiente grafica:
 - El gráfico Chao1 es un estimador de la riqueza de especies que trata de corregir el sesgo de no haber muestreado todas las especies presentes. Se basa en la abundancia de las especies raras.
 Los valores de Chao1 generalmente son mayores o iguales a los valores observados, ya que estiman las especies no observadas. En nuestro gráfico, los valores de Chao1 son bastante similares a los valores observados, lo que sugiere que el muestreo ha sido bastante completo, aunque hay algunas muestras con estimaciones de riqueza significativamente más altas, indicando la posible presencia de especies raras no observadas.
 - El índice de Shannon es una medida de diversidad que considera tanto la riqueza de especies como la equitatividad (cómo se distribuyen las especies en términos de abundancia). Un valor más alto del índice de Shannon indica una mayor diversidad, considerando tanto el número de especies como la uniformidad de sus abundancias. En el gráfico, los valores del índice de Shannon varían entre aproximadamente 1.5 y 4.5. Las muestras con valores más altos tienen una mayor diversidad, tanto en términos de número de especies como en la equitatividad de sus abundancias.
+
+- Primera tarea
+- Segunda tarea
+- Tercera tarea
+
